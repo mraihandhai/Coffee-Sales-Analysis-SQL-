@@ -1,5 +1,6 @@
 /* 	Author : Muhammad Raihan Dhaifullah
            : MSc Business Analytics 2026
+           : Nanyang Technological University
 */   
 
 /*1. How many product categories are there? For each product category, show the number of records.*/
