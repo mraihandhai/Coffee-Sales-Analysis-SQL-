@@ -1,5 +1,6 @@
 # Coffee-Sales-Analysis-SQL-
 This project is based on the assignment given on my class in the Nanyang Technological University.
+
 This project demonstrates advanced SQL skills through comprehensive analysis of coffee shop sales data. The assignment covers multiple datasets including barista coffee sales, caffeine intake tracking, coffee shop locations, and consumer preferences.
 
 - Datasets analyzed
